@@ -1,6 +1,6 @@
 
 
-\# 🔍 Selenium Cucumber BDD - Labcorp Job Search Automation
+\# Selenium Cucumber BDD - Labcorp Job Search Automation
 
 
 
@@ -10,7 +10,7 @@ A comprehensive UI automation framework for testing Labcorp's job search functio
 
 
 
-\## 🎯 Project Overview
+\## Project Overview
 
 
 
@@ -26,7 +26,7 @@ This framework automates end-to-end testing of Labcorp's career portal, includin
 
 
 
-\## 🛠️ Technology Stack
+\## Technology Stack
 
 
 
@@ -42,7 +42,7 @@ This framework automates end-to-end testing of Labcorp's career portal, includin
 
 
 
-\## 🏗️ Project Structure
+\## Project Structure
 
 src/test/java/
 
@@ -64,25 +64,25 @@ src/test/resources/
 
 
 
-\## ✨ Key Features
+\## Key Features
 
 
 
-\- ✅ \*\*BDD Approach\*\* - Human-readable test scenarios
+\- \*\*BDD Approach\*\* - Human-readable test scenarios
 
-\- ✅ \*\*Dynamic Element Handling\*\* - Robust locators and waits
+\- \*\*Dynamic Element Handling\*\* - Robust locators and waits
 
-\- ✅ \*\*Modal \& Popup Management\*\* - Cookie consent, expandable content
+\- \*\*Modal \& Popup Management\*\* - Cookie consent, expandable content
 
-\- ✅ \*\*Multi-tab Support\*\* - Seamless tab switching and validation
+\- \*\*Multi-tab Support\*\* - Seamless tab switching and validation
 
-\- ✅ \*\*Comprehensive Assertions\*\* - Job details, requirements, locations
+\- \*\*Comprehensive Assertions\*\* - Job details, requirements, locations
 
-\- ✅ \*\*Error Recovery\*\* - Graceful failure handling
+\- \*\*Error Recovery\*\* - Graceful failure handling
 
 
 
-\## 🚀 Getting Started
+\## Getting Started
 
 
 
@@ -167,7 +167,7 @@ Update `TestRunner.java` to modify:
 
 
 
-\## 🤝 Contributing
+\## Contributing
 
 
 
@@ -191,15 +191,15 @@ This project is licensed under the MIT License.
 
 
 
-\## 👨‍💻 Author
+\## Author
 
 
 
-\*\*\[Arun Chaubey]\*\* - Senior Product Development Engineer 
+\*\*\[Arun Chaubey]\*\* 
 
-📧 \[imakchaubey@gmail.com]  
+ \[arunvision12gmail.com]  
 
-🔗 \[www.linkedin.com/in/arunchaubey]
+ \[www.linkedin.com/in/arunchaubey]
 
 
 
