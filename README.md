@@ -197,7 +197,7 @@ This project is licensed under the MIT License.
 
 \*\*\[Arun Chaubey]\*\* 
 
- \[arunvision12gmail.com]  
+ \[arunvision12@gmail.com]  
 
  \[www.linkedin.com/in/arunchaubey]
 
